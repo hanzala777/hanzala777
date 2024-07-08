@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **M. E. R. N. Stack**
+- 🌱 I’m currently learning **M. E. R. N. Stack & PySpark with GCP**
 
 - 💬 Ask me about **DSA, Java, Python etc**
 
-- 📫 How to reach me **hanzhanzala@gmail.com**
+- 📫 How to reach me **hanzala4cs@gmail.com**
 
 - ⚡ Fun fact **I think I am a little Sarcastic developer**
 
